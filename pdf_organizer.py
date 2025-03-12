@@ -160,7 +160,8 @@ st.markdown(
             bottom: 0;
             width: 100%;
             text-align: center;
-            padding: 30px;
+            padding: 5px;
+            padding-top: 20px;
             font-size: 14px;
             color: white;
             background-color: #333;
