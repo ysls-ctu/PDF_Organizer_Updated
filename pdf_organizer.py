@@ -102,6 +102,7 @@ def merge_pdfs(pdf_files):
 # Home Page
 if st.session_state.page == "home":
     st.title("PDF Organizer")
+    st.write("Split and organize labels by model number for easy processing. Made for KwikSafety Logistics Department.")
     st.markdown("### Select an option to proceed:")
     col1, col2 = st.columns(2)
     with col1:
